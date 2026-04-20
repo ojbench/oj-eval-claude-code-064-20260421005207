@@ -1,0 +1,10 @@
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+code
+test_main
+simple_test
+*.o
+*.out
+.DS_Store
